@@ -1,5 +1,4 @@
 import calculator
-# just to test :)
 
 print(f"\n--- DEBUG: Starting test_calculator.py")
 
